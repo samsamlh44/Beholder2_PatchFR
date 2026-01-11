@@ -88,7 +88,7 @@
   <string id="1696">Haut</string>
   <string id="1697">Bas</string>
   <string id="927">Montrer les touches</string>
-  <string id="2096">Réduire\étendre tâches</string>
+  <string id="2096">Réduire\développer tâches</string>
   <string id="13">Musique et son</string>
   <string id="14">Volume musique</string>
   <string id="15">Volume son</string>
@@ -111,7 +111,7 @@
   <string id="946">Ombres</string>
   <string id="947">Ombres légères</string>
   <string id="948">Ombres fortes</string>
-  <string id="956">Off</string>
+  <string id="956">Désactivé</string>
   <string id="957">Qualité des ombres</string>
   <string id="958">Distance de dessin de l'ombre</string>
   <string id="959">Bruit cinématique</string>
@@ -120,46 +120,46 @@
   <string id="1467">Flou lumineux</string>
   <string id="2062">Qualité des textures</string>
   <string id="582">Personnaliser</string>
-  <string id="2082">Movement/Select element</string>
-  <string id="2083">Control object selection cursor/Scroll</string>
+  <string id="2082">Mouvement/Sélectionner l'élément</string>
+  <string id="2083">Contrôler le curseur de sélection d'objet/Défilement</string>
   <string id="2084">-&gt;$39</string>
-  <string id="2085">Player menu</string>
-  <string id="2086">Game menu</string>
-  <string id="2087">Profile tab</string>
-  <string id="2088">Map tab</string>
-  <string id="2089">Inventory tab</string>
-  <string id="2090">Tasks tab</string>
-  <string id="2094">Walk</string>
-  <string id="65">Producer</string>
+  <string id="2085">Menu du joueur</string>
+  <string id="2086">Menu du jeu</string>
+  <string id="2087">Onglet Profil</string>
+  <string id="2088">Onglet Carte</string>
+  <string id="2089">Onglet Inventaire</string>
+  <string id="2090">Onglet Tâches</string>
+  <string id="2094">Marcher</string>
+  <string id="65">Producteur</string>
   <string id="84">Evgeny Sister</string>
-  <string id="83">Studio Head</string>
+  <string id="83">Directeur de studio</string>
   <string id="82">Natalya Ogloblina</string>
-  <string id="81">Project Manager</string>
+  <string id="81">Chef de projet</string>
   <string id="80">Evgeniy Seryshev</string>
-  <string id="69">Lead Game Designer</string>
+  <string id="69">Chef Game Designer</string>
   <string id="68">Kseniya Zheyda</string>
   <string id="67">Game Design</string>
   <string id="66">Anton Safonov</string>
   <string id="518">Roman Stroganov</string>
   <string id="517">Evgeny Kryukov</string>
-  <string id="519">Story</string>
-  <string id="520">Art Producer</string>
+  <string id="519">Scenario</string>
+  <string id="520">Pproducteur artistique</string>
   <string id="529">Ivan Chuchuyko</string>
-  <string id="522">3D Artists</string>
+  <string id="522">Artistes 3D</string>
   <string id="403">Semyon Vydrin</string>
   <string id="404">Alexander Arsenov</string>
   <string id="405">Dmitry Pigarev</string>
   <string id="406">Andrey Vassel</string>
-  <string id="407">2D Artists</string>
+  <string id="407">Artistes 2D</string>
   <string id="382">Ekaterina Bezsonova</string>
   <string id="383">Natalya Arsenova</string>
   <string id="384">Marina Dyadyushenko</string>
-  <string id="1604">Animators and VFX Artists</string>
-  <string id="1605">Tech Lead</string>
+  <string id="1604">Artistes Animations et VFX</string>
+  <string id="1605">Chef technique</string>
   <string id="385">Egor Zelenkov</string>
-  <string id="921">Cross Platform Development</string>
+  <string id="921">Développement Cross Platform</string>
   <string id="386">Artem Tanygin</string>
-  <string id="387">Programming</string>
+  <string id="387">Programmation</string>
   <string id="388">Dmitriy Kolesnik</string>
   <string id="1273">QA</string>
   <string id="1274">Natalya Timofeeva</string>
@@ -172,9 +172,9 @@
   <string id="1146">Anna Kosik</string>
   <string id="1159">Alexandra Nespanova</string>
   <string id="1160">Valeriy Davydov</string>
-  <string id="1201">Head of Deployment</string>
+  <string id="1201">Direction de la publication</string>
   <string id="1202">Nadezhda Zhuk</string>
-  <string id="1518">Localization</string>
+  <string id="1518">Localisation</string>
   <string id="1519">Mike Belov</string>
   <string id="1520">Kseniya Naberezhnova</string>
   <string id="1521">Christopher Gribben</string>
@@ -183,26 +183,26 @@
   <string id="2098">BSC Everest</string>
   <string id="2099">East2West Games</string>
   <string id="1524">Audio</string>
-  <string id="1525">Principle Sound Design</string>
-  <string id="1526">Music</string>
+  <string id="1525">Sound Design</string>
+  <string id="1526">Musique</string>
   <string id="1527">Mikhail Kotov</string>
   <string id="1528">SFX</string>
   <string id="1529">Nikolay Semenov</string>
   <string id="1530">Sergei Tskhe</string>
   <string id="1531">Tim Medvedev</string>
   <string id="1532">Igor Makarov</string>
-  <string id="1533">Voiceover</string>
+  <string id="1533">Voix off</string>
   <string id="1534">zvukograd.ru</string>
   <string id="1535">Actors</string>
   <string id="1536">Alexandr Notkin </string>
   <string id="1537">Kent</string>
-  <string id="1538">Sound Editor</string>
+  <string id="1538">Son</string>
   <string id="1539">Alexey Kabanov</string>
-  <string id="1540">Voiceover casting</string>
+  <string id="1540">Casting voix off</string>
   <string id="1541">Antonina Gilko</string>
-  <string id="1542">Partners Relations</string>
+  <string id="1542">Relations partenaires</string>
   <string id="1543">Ilya Grabelnikov</string>
-  <string id="1544">Marketing, community</string>
+  <string id="1544">Marketing, communauté</string>
   <string id="2061">Evgeny Kapustin</string>
   <string id="2068">Yuliya Trofimova</string>
   <string id="2069">Irina Tsivanyuk</string>
@@ -213,8 +213,8 @@
   <string id="1204">Evgenia Savateeva</string>
   <string id="2073">Alexander Cheturov</string>
   <string id="2074">Pavel Trofimov</string>
-  <string id="1122">The following fonts were used in the making of this game:</string>
-  <string id="1123">Nazhdak from the ParaType font library (www.paratype.com)</string>
+  <string id="1122">Les polices de caractères suivantes ont été utilisées pour la création de ce jeu :</string>
+  <string id="1123">Nazhdak de la bibliothèque de polices ParaType (www.paratype.com)</string>
   <string id="131">Google Noto Fonts (www.google.com/get/noto/)</string>
   <string id="2144">Seyit Mehmet ÇOBAN</string>
   <string id="2145">Hüseyin Serhat ÇAVUNT</string>
@@ -254,18 +254,18 @@
   <string id="145">Agenda</string>
   <string id="146">Requête</string>
   <string id="147">Plainte</string>
-  <string id="148">Denonciation</string>
+  <string id="148">Dénonciation</string>
   <string id="149">Information</string>
   <string id="151">Ordre</string>
   <string id="152">Patriotisme</string>
-  <string id="153">Protection sociale</string>
+  <string id="153">Soins sociaux</string>
   <string id="154">Travail</string>
-  <string id="155">Culture and Sports</string>
-  <string id="156">Science et Technologie</string>
+  <string id="155">Culture et Sports</string>
+  <string id="156">Science et Technologies</string>
   <string id="604">Continuer</string>
-  <string id="158">5 formulairess</string>
+  <string id="158">5 formulaires</string>
   <string id="1517">02:00</string>
-  <string id="159">Choisir le tyoe d'appel:</string>
+  <string id="159">Choisir le type d'appel:</string>
   <string id="160">Formulaires disponibles:</string>
   <string id="161">Choisir le ministère: </string>
   <string id="162">Choisir le bureau disponible:</string>
@@ -274,7 +274,7 @@
   <string id="601">Imprimer</string>
   <string id="164">Formulaire</string>
   <string id="165">Ministère</string>
-  <string id="602">Departement</string>
+  <string id="602">Département</string>
   <string id="166">Bureau</string>
   <string id="167">Nouvelle partie</string>
   <string id="168">Aide</string>
@@ -287,7 +287,7 @@
   <string id="702">Suivant</string>
   <string id="728">Ministère de l'Ordre</string>
   <string id="729">Ministère du Patriotisme</string>
-  <string id="730">Ministère de la protection sociale</string>
+  <string id="730">Ministère des Soins sociaux</string>
   <string id="731">Ministère du travail</string>
   <string id="732">Ministère de la Culture et des Sports</string>
   <string id="733">Ministère des Sciences et des Technologies</string>
@@ -309,461 +309,454 @@
   <string id="1597">Effacer</string>
   <string id="1598">Utilisez les instructions de travail pour tamponner correctement les formulaires d'appel des visiteurs.
 <!--Reprise-->
-The procedure for processing forms consists of three steps.
+La procédure de traitement des formulaires se compose de trois étapes.
 
-Step 1. Process the appeal.
-Step 2. Process the person.
-Step 3. Process the form.
 
-Click “Check” to go to the next step.
+Étape 1. Traiter l'appel.
+Étape 2. Traiter la personne.
+Étape 3. Traiter le formulaire.
 
-The number of stamps depends on the current instructions.
-Remember, comrade, instructions are much more important than common sense!</string>
+Cliquez sur « Vérifier » pour passer à l'étape suivante.
+
+Le nombre de timbres dépend des instructions actuelles.
+Rappelez-vous, camarade, les instructions sont beaucoup plus importantes que le bon sens !</string>
   <string id="1599">
-If there are no specific instructions, then any decision you make is the right one!</string>
-  <string id="1600">Step 1 </string>
-  <string id="1601">Step 2</string>
-  <string id="1602">Step 3</string>
-  <string id="1603">Work</string>
-  <string id="130">Process the appeal</string>
-  <string id="133">Process the person who made the appeal</string>
-  <string id="132">Process the form</string>
-  <string id="1453">&lt;i&gt;The Ministry of Instructions&lt;/i&gt; </string>
-  <string id="1889">Approve requests to the Ministry of Social Care</string>
-  <string id="1890">Approve requests to the Ministry of Culture</string>
-  <string id="1891">Approve requests to the Ministry of Order</string>
-  <string id="1892">Approve complaints to the Ministry of Labor</string>
-  <string id="1893">Approve complaints to the Ministry of Science and Technology</string>
-  <string id="1894">Approve complaints to the Ministry of Patriotism</string>
-  <string id="1895">Approve information for the Ministry of Social Care</string>
-  <string id="1896">Approve denunciations to the Ministry of Order</string>
-  <string id="1897">Approve denunciations to the Ministry of Patriotism</string>
-  <string id="1898">Approve denunciations to the Ministry of Social Care</string>
-  <string id="1899">Approve appeals to the Ministry of Labor</string>
-  <string id="1900">Approve appeals to the Ministry of Patriotism</string>
-  <string id="1901">Reject all requests</string>
-  <string id="1902">Reject sending of all information</string>
-  <string id="1903">Reject complaints to the Ministry of Order</string>
-  <string id="1904">Reject complaints to the Ministry of Patriotism</string>
-  <string id="1905">Reject complaints to the Ministry of Social Care</string>
-  <string id="1906">Reject complaints to the Ministry of Labor</string>
-  <string id="1907">Reject complaints to the Ministry of Culture</string>
-  <string id="1908">Reject complaints to the Ministry of Science and Technology</string>
-  <string id="1909">Reject denunciations to the Ministry of Order</string>
-  <string id="1910">Reject denunciations to the Ministry of Patriotism</string>
-  <string id="1911">Reject denunciations to the Ministry of Social Care</string>
-  <string id="1912">Reject denunciations to the Ministry of Labor</string>
-  <string id="1913">Reject denunciations to the Ministry of Culture</string>
-  <string id="1914">Reject denunciations to the Ministry of Science and Technology</string>
-  <string id="1915">Reject appeals to the Ministry of Social Care</string>
-  <string id="1916">Reject appeals to the Ministry of Culture</string>
-  <string id="1917">Reject appeals to the Ministry of Order</string>
-  <string id="1918">Check complaints to the Ministry of Order</string>
-  <string id="1848">Check complaints to the Ministry of Patriotism</string>
-  <string id="1849">Check complaints to the Ministry of Social Care</string>
-  <string id="1919">Check complaints to the Ministry of Labor</string>
-  <string id="1920">Check complaints to the Ministry of Culture</string>
-  <string id="1921">Check complaints to the Science and Technology</string>
-  <string id="1922">Check denunciations to the Ministry of Order</string>
-  <string id="1923">Check denunciations to the Ministry of Patriotism</string>
-  <string id="1924">Check denunciations to the Ministry of Social Care</string>
-  <string id="1925">Check denunciations to the Ministry of Labor</string>
-  <string id="1926">Check denunciations to the Ministry of Culture</string>
-  <string id="1927">Check denunciations to the Ministry of Science and Technology</string>
-  <string id="1928">Check appeals to the Ministry of Social Care</string>
-  <string id="1929">Check appeals to the Ministry of Culture</string>
-  <string id="1930">Classify requests to the Ministry of Patriotism</string>
-  <string id="1931">Classify complaints to the Ministry of Order</string>
-  <string id="1932">Classify complaints to the Ministry of Patriotism</string>
-  <string id="1933">Classify complaints to the Ministry of Social Care</string>
-  <string id="1934">Classify complaints to the Ministry of Labor</string>
-  <string id="1935">Classify complaints to the Ministry of Culture</string>
-  <string id="1936">Classify complaints to the Ministry of Science and Technology</string>
-  <string id="1937">Classify all complaints</string>
-  <string id="1938">Classify information for the Ministry of Order</string>
-  <string id="1939">Classify information for the Ministry of Patriotism</string>
-  <string id="1940">Classify information for the Ministry of Science and Technology</string>
-  <string id="1941">Classify denunciations to the Ministry of Patriotism</string>
-  <string id="1942">Classify denunciations to the Ministry of Labor</string>
-  <string id="1943">Classify denunciations</string>
-  <string id="1944">Classify appeals to the Ministry of Order</string>
-  <string id="1945">Classify appeals to the Ministry of Science and Technology</string>
-  <string id="1946">Send task force for complaint to the Ministry of Order</string>
-  <string id="1947">Send task force for complaints to the Ministry of Patriotism</string>
-  <string id="1948">Send task force for complaints to the Ministry of Social Care</string>
-  <string id="1949">Send task force for complaints to the Ministry of Labor</string>
-  <string id="1950">Send task force for complaints to the Ministry of Culture</string>
-  <string id="1951">Send task force for denunciations to the Ministry of Science and Technology</string>
-  <string id="1952">Send task force for denunciations to the Ministry of Order</string>
-  <string id="1953">Send task force for denunciations to the Ministry of Patriotism</string>
-  <string id="1954">Send task force for denunciations to the Ministry of Social Care</string>
-  <string id="1955">Send task force for denunciations to the Ministry of Labor</string>
-  <string id="1956">Send task force for denunciations to the Ministry of Science and Technology</string>
-  <string id="1957">Reward for information for any Ministry</string>
-  <string id="1958">Reward for information for the Ministry of Order</string>
-  <string id="1959">Reward for information for the Ministry of Labor</string>
-  <string id="1960">Reward for denunciation for the Ministry of Order</string>
-  <string id="1961">Reward for complaint to any Ministry</string>
-  <string id="1962">Reward for appeal to the Ministry of Patriotism</string>
-  <string id="1963">Reward for appeal to the Ministry of Culture</string>
-  <string id="1964">Issue a fine for request to any Ministry</string>
-  <string id="1965">Issue a fine for request to the Ministry of Social Care</string>
-  <string id="1966">Issue a fine for complaint to the Ministry of Order</string>
-  <string id="1967">Issue a fine for complaint to the Ministry of Labor</string>
-  <string id="1968">Issue a fine for denunciation for any Ministry</string>
-  <string id="1969">Issue a fine for appeal to the Ministry of Culture</string>
-  <string id="1970">Issue a fine for appeal to the Ministry of Labor</string>
-  <string id="1971">Make a note in personal file for complaint to the Ministry of Patriotism</string>
-  <string id="1972">Make a note in personal file for information for the Ministry of Order</string>
-  <string id="1973">Make a note in personal file for information for the Ministry of Social Care</string>
-  <string id="1974">Make a note in personal file for denunciation for the Ministry of Labor</string>
-  <string id="1975">Make a note in personal file for denunciation for the Ministry of Culture</string>
-  <string id="1976">Make a note in personal file for appeal to the Ministry of Science and Technology</string>
-  <string id="1977">Make a note in personal file for appeal to the Ministry of Patriotism</string>
-  <string id="1978">Make a note in personal file for appeal to the Ministry of Order</string>
-  <string id="1979">Assign community service for request to the Ministry of Labor</string>
-  <string id="1980">Assign community service for request to any Ministry</string>
-  <string id="1981">Assign community service for complaint to the Ministry of Culture</string>
-  <string id="1982">Assign community service for complaint to any Ministry</string>
-  <string id="1983">Assign community service for information for the Ministry of Social Care</string>
-  <string id="1984">Assign community service for denunciation for the Ministry of Patriotism</string>
-  <string id="1985">Assign community service for denunciation for any Ministry</string>
-  <string id="1986">Assign community service for appeal to the Ministry of Labor</string>
-  <string id="1987">Assign community service for appeal to the Ministry of Order</string>
-  <string id="1988">Assign community service for appeal to the Ministry of Culture</string>
-  <string id="1989">Issue an arrest warrant for request to the Ministry of Social Care</string>
-  <string id="1990">Issue an arrest warrant for request to the Ministry of Science and Technology</string>
-  <string id="1991">Issue an arrest warrant for request to the Ministry of Culture</string>
-  <string id="1992">Issue an arrest warrant for appeal to the Ministry of Labor</string>
-  <string id="1993">Issue an arrest warrant for appeal to the Ministry of Patriotism</string>
-  <string id="1994">Issue an arrest warrant for appeal to the Ministry of Order</string>
-  <string id="1995">Issue an arrest warrant for complaint to the Ministry of Social Care</string>
-  <string id="1996">Issue an arrest warrant for complaint to the Ministry of Culture</string>
-  <string id="1997">Send to the firing squad for complaint to the Ministry of Order</string>
-  <string id="1998">Send to the firing squad for complaint to the Ministry of Labor</string>
-  <string id="1999">Send to the firing squad for complaint to the Ministry of Culture</string>
-  <string id="2000">Send to the firing squad for appeal to the Ministry of Order</string>
-  <string id="2001">Send to the firing squad for complaint to any Ministry</string>
-  <string id="2002">Send to the firing squad for denunciation for the Ministry of Science and Technology</string>
-  <string id="2003">Send to the firing squad for denunciation for the Ministry of Culture</string>
-  <string id="2004">Send to the firing squad for denunciation for the Ministry of Labor</string>
-  <string id="2005">Send to the firing squad for request to the Ministry of Social Care</string>
-  <string id="2006">Send to the firing squad for request to any Ministry</string>
-  <string id="1606">Enact requests to the Ministry of Social Care</string>
-  <string id="1607">Enact requests to the Ministry of Labor</string>
-  <string id="1608">Enact complaints to the Ministry of Social Care</string>
-  <string id="1609">Enact complaints to the Ministry of Patriotism</string>
-  <string id="1610">Enact complaints to the Ministry of Order</string>
-  <string id="2007">Enact information for the Ministry of Social Care</string>
-  <string id="2008">Enact information for the Ministry of Culture</string>
-  <string id="2009">Enact denunciations to the Ministry of Order</string>
-  <string id="2010">Enact denunciations to the Ministry of Science and Technology</string>
-  <string id="2011">Enact denunciations to the Ministry of Labor</string>
-  <string id="2012">Enact appeals to the Ministry of Patriotism</string>
-  <string id="2013">Enact appeals to the Ministry of Order</string>
-  <string id="2014">Enact appeals to the Ministry of Culture</string>
-  <string id="2015">Archive requests to any Ministry</string>
-  <string id="2016">Archive requests to the Ministry of Science and Technology</string>
-  <string id="2017">Archive complaints to the Ministry of Culture</string>
-  <string id="2018">Archive information for any Ministry</string>
-  <string id="2019">Archive information for the Ministry of Order</string>
-  <string id="2020">Archive information for the Ministry of Patriotism</string>
-  <string id="2021">Archive information for the Ministry of Social Care</string>
-  <string id="2022">Archive information for the Ministry of Labor</string>
-  <string id="2023">Archive denunciations to the Ministry of Social Care</string>
-  <string id="2024">Archive appeals to the Ministry of Science and Technology</string>
-  <string id="2025">Archive appeals to the Ministry of Culture</string>
-  <string id="2026">Archive appeals to the Ministry of Patriotism</string>
-  <string id="2027">Destroy requests to any Ministry</string>
-  <string id="2028">Destroy requests to the Ministry of Social Care</string>
-  <string id="2029">Destroy requests to the Ministry of Social Care</string>
-  <string id="2030">Destroy complaints to any Ministry</string>
-  <string id="2031">Destroy complaints to the Ministry of Culture</string>
-  <string id="2032">Destroy complaints to the Ministry of Science and Technology</string>
-  <string id="2033">Destroy denunciations to the Ministry of Order</string>
-  <string id="2034">Destroy denunciations to the Ministry of Patriotism</string>
-  <string id="2035">Destroy appeals to the Ministry of Science and Technology</string>
-  <string id="2036">Destroy appeals to the Ministry of Culture</string>
-  <string id="2037">Destroy appeals to the Ministry of Social Care</string>
-  <string id="2038">Destroy appeals to the Ministry of Labor</string>
-  <string id="2039">Clarify requests to the Ministry of Culture</string>
-  <string id="2040">Clarify requests to the Ministry of Social Care</string>
-  <string id="2041">Clarify requests to the Ministry of Science and Technology</string>
-  <string id="2042">Clarify requests to the Ministry of Patriotism</string>
-  <string id="2043">Clarify complaints to the Ministry of Order</string>
-  <string id="2044">Clarify complaints to the Ministry of Patriotism</string>
-  <string id="2045">Clarify complaints to the Ministry of Labor</string>
-  <string id="2046">Clarify complaints to the Ministry of Science and Technology</string>
-  <string id="2047">Clarify denunciations to the Ministry of Labor</string>
-  <string id="2048">Clarify denunciations to the Ministry of Social Care</string>
-  <string id="2049">Clarify appeals to the Ministry of Social Care</string>
-  <string id="2050">Clarify appeals to the Ministry of Labor</string>
-  <string id="2051">Clarify appeals to the Ministry of Patriotism</string>
-  <string id="1693">Influence on personality:</string>
-  <string id="1698">Used {0} out of {1}</string>
-  <string id="1699">Ministry requests:</string>
-  <string id="1700">Personality</string>
-  <string id="1701">Apply</string>
-  <string id="1702">Clones are the future of our country. The Ministries are in constant need of new labor.
-Your task is to select suitable personalities for various jobs and load them into clones.
+Si aucune instruction spécifique n'est donnée, alors toute décision que vous prenez est la bonne !</string>
+  <string id="1600">Étape 1 </string>
+  <string id="1601">Étape 2</string>
+  <string id="1602">Étape 3</string>
+  <string id="1603">Travail</string>
+  <string id="130">Traiter l'appel</string>
+  <string id="133">Traiter la personne qui a fait l'appel</string>
+  <string id="132">Traiter le formulaire</string>
+  <string id="1453">&lt;i&gt;Le Ministère des Instructions&lt;/i&gt; </string>
+  <string id="1889">Approuver les demandes au Ministère des Soins Sociaux</string>
+  <string id="1890">Approuver les demandes au Ministère de la Culture et des Sports</string>
+  <string id="1891">Approuver les demandes au Ministère de l'Ordre</string>
+  <string id="1892">Approuver les plaintes au Ministère du Travail</string>
+  <string id="1893">Approuver les plaintes au Ministère des Sciences et Technologies</string>
+  <string id="1894">Approuver les plaintes au Ministère du Patriotisme</string>
+  <string id="1895">Approuver les informations pour le Ministère des Soins Sociaux</string>
+  <string id="1896">Approuver les dénonciations au Ministère de l'Ordre</string>
+  <string id="1897">Approuver les dénonciations au Ministère du Patriotisme</string>
+  <string id="1898">Approuver les dénonciations au Ministère des Soins Sociaux</string>
+  <string id="1899">Approuver les appels au Ministère du Travail</string>
+  <string id="1900">Approuver les appels au Ministère du Patriotisme</string>
+  <string id="1901">Rejeter toutes les demandes</string>
+  <string id="1902">Rejeter l'envoi de toutes les informations</string>
+  <string id="1903">Rejeter les plaintes au Ministère de l'Ordre</string>
+  <string id="1904">Rejeter les plaintes au Ministère du Patriotisme</string>
+  <string id="1905">Rejeter les plaintes au Ministère des Soins Sociaux</string>
+  <string id="1906">Rejeter les plaintes au Ministère du Travail</string>
+  <string id="1907">Rejeter les plaintes au Ministère de la Culture et des Sports</string>
+  <string id="1908">Rejeter les plaintes au Ministère des Sciences et Technologies</string>
+  <string id="1909">Rejeter les dénonciations au Ministère de l'Ordre</string>
+  <string id="1910">Rejeter les dénonciations au Ministère du Patriotisme</string>
+  <string id="1911">Rejeter les dénonciations au Ministère des Soins Sociaux</string>
+  <string id="1912">Rejeter les dénonciations au Ministère du Travail</string>
+  <string id="1913">Rejeter les dénonciations au Ministère de la Culture et des Sports</string>
+  <string id="1914">Rejeter les dénonciations au Ministère des Sciences et Technologies</string>
+  <string id="1915">Rejeter les appels au Ministère des Soins Sociaux</string>
+  <string id="1916">Rejeter les appels au Ministère de la Culture</string>
+  <string id="1917">Rejeter les appels au Ministère de l'Ordre</string>
+  <string id="1918">Vérifier les plaintes au Ministère de l'Ordre</string>
+  <string id="1848">Vérifier les plaintes au Ministère du Patriotisme</string>
+  <string id="1849">Vérifier les plaintes au Ministère des Soins Sociaux</string>
+  <string id="1919">Vérifier les plaintes au Ministère du Travail</string>
+  <string id="1920">Vérifier les plaintes au Ministère de la Culture et des Sports</string>
+  <string id="1921">Vérifier les plaintes aux Sciences et Technologies</string>
+  <string id="1922">Vérifier les dénonciations au Ministère de l'Ordre</string>
+  <string id="1923">Vérifier les dénonciations au Ministère du Patriotisme</string>
+  <string id="1924">Vérifier les dénonciations au Ministère des Soins Sociaux</string>
+  <string id="1925">Vérifier les dénonciations au Ministère du Travail</string>
+  <string id="1926">Vérifier les dénonciations au Ministère de la Culture et des Sports</string>
+  <string id="1927">Vérifier les dénonciations aux Sciences et Technologies</string>
+  <string id="1928">Vérifier les appels au Ministère des Soins Sociaux</string>
+  <string id="1929">Vérifier les appels au Ministère de la Culture et des Sports</string>
+  <string id="1930">Classer les demandes au Ministère du Patriotisme</string>
+  <string id="1931">Classer les plaintes au Ministère de l'Ordre</string>
+  <string id="1932">Classer les plaintes au Ministère du Patriotisme</string>
+  <string id="1933">Classer les plaintes au Ministère des Soins sociaux</string>
+  <string id="1934">Classer les plaintes au Ministère du Travail</string>
+  <string id="1935">Classer les plaintes au Ministère de la Culture et des Sports</string>
+  <string id="1936">Classer les plaintes au Ministère des Sciences et Technologies</string>
+  <string id="1937">Classer toutes les plaintes</string>
+  <string id="1938">Classer les informations pour le Ministère de l'Ordre</string>
+  <string id="1939">Classer les informations pour le Ministère du Patriotisme</string>
+  <string id="1940">Classer les informations pour le Ministère des Sciences et Technologies</string>
+  <string id="1941">Classer les dénonciations au Ministère du Patriotisme</string>
+  <string id="1942">Classer les dénonciations au Ministère du Travail</string>
+  <string id="1943">Classer les dénonciations</string>
+  <string id="1944">Classer les appels au Ministère de l'Ordre</string>
+  <string id="1945">Classer les appels au Ministère des Sciences et Technologies</string>
+  <string id="1946">Envoyer un groupe de travail pour plainte au Ministère de l'Ordre</string>
+  <string id="1947">Envoyer un groupe de travail pour plaintes au Ministère du Patriotisme</string>
+  <string id="1948">Envoyer un groupe de travail pour plaintes au Ministère des Soins sociaux</string>
+  <string id="1949">Envoyer un groupe de travail pour plaintes au Ministère du Travail</string>
+  <string id="1950">Envoyer un groupe de travail pour plaintes au Ministère de la Culture et des Sports</string>
+  <string id="1951">Envoyer un groupe de travail pour dénonciations au Ministère des Sciences et Technologies</string>
+  <string id="1952">Envoyer un groupe de travail pour dénonciations au Ministère de l'Ordre</string>
+  <string id="1953">Envoyer un groupe de travail pour dénonciations au Ministère du Patriotisme</string>
+  <string id="1954">Envoyer un groupe de travail pour dénonciations au Ministère des Soins sociaux</string>
+  <string id="1955">Envoyer un groupe de travail pour dénonciations au Ministère du Travail</string>
+  <string id="1956">Envoyer un groupe de travail pour dénonciations au Ministère des Sciences et Technologies</string>
+  <string id="1957">Récompense pour information à n'importe quel Ministère</string>
+  <string id="1958">Récompense pour information au Ministère de l'Ordre</string>
+  <string id="1959">Récompense pour information au Ministère du Travail</string>
+  <string id="1960">Récompense pour dénonciation au Ministère de l'Ordre</string>
+  <string id="1961">Récompense pour plainte à n'importe quel Ministère</string>
+  <string id="1962">Récompense pour appel au Ministère du Patriotisme</string>
+  <string id="1963">Récompense pour appel au Ministère de la Culture et des Sports</string>
+  <string id="1964">Émettre une amende pour demande à n'importe quel Ministère</string>
+  <string id="1965">Émettre une amende pour demande au Ministère des Soins sociaux</string>
+  <string id="1966">Émettre une amende pour plainte au Ministère de l'Ordre</string>
+  <string id="1967">Émettre une amende pour plainte au Ministère du Travail</string>
+  <string id="1968">Émettre une amende pour dénonciation à n'importe quel Ministère</string>
+  <string id="1969">Émettre une amende pour appel au Ministère de la Culture et des Sports</string>
+  <string id="1970">Émettre une amende pour appel au Ministère du Travail</string>
+  <string id="1971">Ajouter une note au dossier personnel pour plainte au Ministère du Patriotisme</string>
+  <string id="1972">Ajouter une note au dossier personnel pour information pour le Ministère de l'Ordre</string>
+  <string id="1973">Ajouter une note au dossier personnel pour information pour le Ministère des Soins sociaux</string>
+  <string id="1974">Ajouter une note au dossier personnel pour dénonciation pour le Ministère du Travail</string>
+  <string id="1975">Ajouter une note au dossier personnel pour dénonciation pour le Ministère de la Culture et des Sports</string>
+  <string id="1976">Ajouter une note au dossier personnel pour appel au Ministère des Sciences et des Technologies</string>
+  <string id="1977">Ajouter une note au dossier personnel pour appel au Ministère du Patriotisme</string>
+  <string id="1978">Ajouter une note au dossier personnel pour appel au Ministère de l'Ordre</string>
+  <string id="1979">Assigner des travaux d'intérêt général pour demande au Ministère du Travail</string>
+  <string id="1980">Assigner des travaux d'intérêt général pour demande à n'importe quel Ministère</string>
+  <string id="1981">Assigner des travaux d'intérêt général pour plainte au Ministère de la Culture et des Sports</string>
+  <string id="1982">Assigner des travaux d'intérêt général pour plainte à n'importe quel Ministère</string>
+  <string id="1983">Assigner des travaux d'intérêt général pour information pour le Ministère des Soins sociaux</string>
+  <string id="1984">Assigner des travaux d'intérêt général pour dénonciation pour le Ministère du Patriotisme</string>
+  <string id="1985">Assigner des travaux d'intérêt général pour dénonciation pour n'importe quel Ministère</string>
+  <string id="1986">Assigner des travaux d'intérêt général pour appel au Ministère du Travail</string>
+  <string id="1987">Assigner des travaux d'intérêt général pour appel au Ministère de l'Ordre</string>
+  <string id="1988">Assigner des travaux d'intérêt général pour appel au Ministère de la Culture et des Sports</string>
+  <string id="1989">Émettre une mandat d'arrestation pour demande au Ministère des Soins sociaux</string>
+  <string id="1990">Émettre un mandat d'arrestation pour demande au Ministère des Sciences et Technologies</string>
+  <string id="1991">Émettre un mandat d'arrestation pour demande au Ministère de la Culture et des Sports</string>
+  <string id="1992">Émettre un mandat d'arrestation pour appel au Ministère du Travail</string>
+  <string id="1993">Émettre un mandat d'arrestation pour appel au Ministère du Patriotisme</string>
+  <string id="1994">Émettre un mandat d'arrestation pour appel au Ministère de l'Ordre</string>
+  <string id="1995">Émettre un mandat d'arrestation pour plainte au Ministère des Soins sociaux</string>
+  <string id="1996">Émettre un mandat d'arrestation pour plainte au Ministère de la Culture et des Sports</string>
+  <string id="1997">Envoyer au peloton d'exécution pour plainte au Ministère de l'Ordre</string>
+  <string id="1998">Envoyer au peloton d'exécution pour plainte au Ministère du Travail</string>
+  <string id="1999">Envoyer au peloton d'exécution pour plainte au Ministère de la Culture et des Sports</string>
+  <string id="2000">Envoyer au peloton d'exécution pour appel au Ministère de l'Ordre</string>
+  <string id="2001">Envoyer au peloton d'exécution pour plainte à n'importe quel Ministère</string>
+  <string id="2002">Envoyer au peloton d'exécution pour dénonciation au Ministère des Sciences et Technologies</string>
+  <string id="2003">Envoyer au peloton d'exécution pour dénonciation au Ministère de la Culture et des Sports</string>
+  <string id="2004">Envoyer au peloton d'exécution pour dénonciation au Ministère du Travail</string>
+  <string id="2005">Envoyer au peloton d'exécution pour demande au Ministère des Soins sociaux</string>
+  <string id="2006">Envoyer au peloton d'exécution pour demande à n'importe quel Ministère</string>
+  <string id="1606">Appliquer les demandes au Ministère des Soins sociaux</string>
+  <string id="1607">Appliquer les demandes au Ministère du Travail</string>
+  <string id="1608">Appliquer les plaintes au Ministère des Soins sociaux</string>
+  <string id="1609">Appliquer les plaintes au Ministère du Patriotisme</string>
+  <string id="1610">Appliquer les plaintes au Ministère de l'Ordre</string>
+  <string id="2007">Appliquer les informations pour le Ministère des Soins sociaux</string>
+  <string id="2008">Appliquer les informations pour le Ministère de la Culture et des Sports</string>
+  <string id="2009">Appliquer les dénonciations au Ministère de l'Ordre</string>
+  <string id="2010">Appliquer les dénonciations au Ministère des Sciences et des Technologies</string>
+  <string id="2011">Appliquer les dénonciations au Ministère du Travail</string>
+  <string id="2012">Appliquer les appels au Ministère du Patriotisme</string>
+  <string id="2013">Appliquer les appels au Ministère de l'Ordre</string>
+  <string id="2014">Appliquer les appels au Ministère de la Culture et des Sports</string>
+  <string id="2015">Archiver les demandes auprès de n'importe quel Ministère</string>
+  <string id="2016">Archiver les demandes auprès du Ministère des Sciences et des Technologies</string>
+  <string id="2017">Archiver les plaintes auprès du Ministère de la Culture et des Sports</string>
+  <string id="2018">Archiver les informations pour n'importe quel Ministère</string>
+  <string id="2019">Archiver les informations pour le Ministère de l'Ordre</string>
+  <string id="2020">Archiver les informations pour le Ministère du Patriotisme</string>
+  <string id="2021">Archiver les informations pour le Ministère des Soins sociaux</string>
+  <string id="2022">Archiver les informations pour le Ministère du Travail</string>
+  <string id="2023">Archiver les dénonciations auprès du Ministère des Soins sociaux</string>
+  <string id="2024">Archiver les appels auprès du Ministère des Sciences et des Technologies</string>
+  <string id="2025">Archiver les appels auprès du Ministère de la Culture et des Sports</string>
+  <string id="2026">Archiver les appels auprès du Ministère du Patriotisme</string>
+  <string id="2027">Détruire les demandes à n'importe quel Ministère</string>
+  <string id="2028">Détruire les demandes au Ministère des Soins sociaux</string>
+  <string id="2029">Détruire les demandes au Ministère des Soins sociaux</string>
+  <string id="2030">Détruire les plaintes à n'importe quel Ministère</string>
+  <string id="2031">Détruire les plaintes au Ministère de la Culture et des Sports</string>
+  <string id="2032">Détruire les plaintes au Ministère des Sciences et Technologies</string>
+  <string id="2033">Détruire les dénonciations au Ministère de l'Ordre</string>
+  <string id="2034">Détruire les dénonciations au Ministère du Patriotisme</string>
+  <string id="2035">Détruire les appels au Ministère des Sciences et Technologies</string>
+  <string id="2036">Détruire les appels au Ministère de la Culture et des Sports</string>
+  <string id="2037">Détruire les appels au Ministère des Soins sociaux</string>
+  <string id="2038">Détruire les appels au Ministère du Travail</string>
+  <string id="2039">Clarifier les demandes au Ministère de la Culture et des Sports</string>
+  <string id="2040">Clarifier les demandes au Ministère des Soins sociaux</string>
+  <string id="2041">Clarifier les demandes au Ministère des Sciences et Technologies</string>
+  <string id="2042">Clarifier les demandes au Ministère du Patriotisme</string>
+  <string id="2043">Clarifier les plaintes au Ministère de l'Ordre</string>
+  <string id="2044">Clarifier les plaintes au Ministère du Patriotisme</string>
+  <string id="2045">Clarifier les plaintes au Ministère du Travail</string>
+  <string id="2046">Clarifier les plaintes au Ministère des Sciences et Technologies</string>
+  <string id="2047">Clarifier les dénonciations au Ministère du Travail</string>
+  <string id="2048">Clarifier les dénonciations au Ministère des Soins sociaux</string>
+  <string id="2049">Clarifier les appels au Ministère des Soins sociaux</string>
+  <string id="2050">Clarifier les appels au Ministère du Travail</string>
+  <string id="2051">Clarifier les appels au Ministère du Patriotisme</string>
+  <string id="1693">Influence sur la personnalité :</string>
+  <string id="1698">Utilisé {0} sur {1}</string>
+  <string id="1699">Demandes du Ministère :</string>
+  <string id="1700">Personnalité</string>
+  <string id="1701">Appliquer</string>
+  <string id="1702">Les clones sont l'avenir de notre pays. Les Ministères ont constamment besoin de nouvelles forces de travail.
+Votre tâche est de sélectionner des personnalités appropriées pour divers emplois et de les charger dans des clones.
 
-1. Choose a profession.
-2. Use influences to match personality traits with job traits as closely as possible. You can choose from 1 to 5 influences.
-3. Assess how well the personality fits the job.
-Use the color of attributes as an indicator:
-&lt;pos=30%&gt;Green - full match.
-&lt;pos=30%&gt;Yellow - partial match with a deviation of 5 points.
-&lt;pos=30%&gt;Black - no match.
+1. Choisir une profession.
+2. Utiliser les influences pour faire correspondre les traits de personnalité aux traits de l'emploi le plus précisément possible. Vous pouvez choisir de 1 à 5 influences.
+3. Évaluer la compatibilité de la personnalité avec l'emploi.
+Utilisez la couleur des attributs comme indicateur :
+&lt;pos=30%&gt;Green - correspondance complète.
+&lt;pos=30%&gt;Yellow - correspondance partielle avec un écart de 5 points.
+&lt;pos=30%&gt;Black - pas de correspondance.
 
-4. Click “Apply”.
-You will be rewarded if three or more bulbs light up.
+4. Cliquez sur « Appliquer ».
+Vous serez récompensé si trois bulbes ou plus s'allument.
 
-&lt;i&gt;The Ministry of Instructions&lt;/i&gt;</string>
-  <string id="1703">Strength</string>
-  <string id="1704">Stamina</string>
-  <string id="1705">Intelligence</string>
-  <string id="1706">Creativity</string>
-  <string id="1707">Patriotism</string>
-  <string id="1708">Tax inspector</string>
-  <string id="1709">Cash courier</string>
-  <string id="1710">Accountant</string>
-  <string id="1711">Chief accountant</string>
-  <string id="1712">Junior researcher</string>
-  <string id="1713">Building manager</string>
-  <string id="1714">Bus driver</string>
-  <string id="1715">Cook</string>
-  <string id="1716">Gardener</string>
-  <string id="1717">International diplomat</string>
-  <string id="1718">Propagandist</string>
-  <string id="1719">Plumbing engineer</string>
-  <string id="1720">Police officer</string>
-  <string id="1721">Postal worker</string>
-  <string id="1722">Propaganda poster artist</string>
-  <string id="1723">Janitor</string>
-  <string id="1724">Terminal operator</string>
-  <string id="1725">General physician</string>
-  <string id="1726">Toxic agent tester</string>
-  <string id="1727">Tractor driver</string>
-  <string id="1728">Obstetrician</string>
-  <string id="1729">Paramedic</string>
-  <string id="1730">Geneticist</string>
-  <string id="1731">Cardiologist</string>
-  <string id="1732">Ophthalmologist</string>
-  <string id="1733">Dentist</string>
-  <string id="1734">Pharmacist</string>
-  <string id="1735">Firefighter</string>
-  <string id="1736">Lifeguard</string>
-  <string id="1737">Radio operator</string>
-  <string id="1738">Pilot</string>
-  <string id="1739">Proofreader</string>
-  <string id="1740">Editor</string>
-  <string id="1741">Layout designer</string>
-  <string id="1742">Radio host</string>
-  <string id="1743">Journalist</string>
-  <string id="1744">TV presenter</string>
-  <string id="1745">Biologist</string>
-  <string id="1746">Biology teacher</string>
-  <string id="1747">Chemistry teacher</string>
-  <string id="1748">Math teacher</string>
-  <string id="1749">Geologist</string>
-  <string id="1750">Soil scientist</string>
-  <string id="1751">Tutor</string>
-  <string id="1752">Choreographer</string>
-  <string id="1753">Dog handler</string>
-  <string id="1754">Baker</string>
-  <string id="1755">Butcher</string>
-  <string id="1756">Oven operator</string>
-  <string id="1757">Confectioner</string>
-  <string id="1758">Chef</string>
-  <string id="1759">Industrial climber</string>
-  <string id="1760">Veterinarian</string>
-  <string id="1761">Agronomist</string>
-  <string id="1762">Farmer</string>
-  <string id="1763">Pigeon catcher</string>
-  <string id="1764">Street sweeper</string>
-  <string id="1765">Hairdresser</string>
-  <string id="1766">Waiter</string>
-  <string id="1767">Film director</string>
-  <string id="1768">Screenwriter</string>
-  <string id="1769">Mechanic</string>
-  <string id="1770">Builder</string>
-  <string id="1771">Watchmaker</string>
-  <string id="1772">Air traffic controller</string>
-  <string id="1773">Marine pilot</string>
-  <string id="1774">Notary</string>
-  <string id="1775">Lawyer</string>
-  <string id="1776">Bailiff</string>
-  <string id="1777">Debt collector</string>
-  <string id="1778">Loader</string>
-  <string id="1779">Bathhouse attendant</string>
-  <string id="1780">Queue simulator</string>
-  <string id="1781">Refrigerator engineer</string>
-  <string id="1782">Debt collector</string>
-  <string id="1783">Loader</string>
-  <string id="1784">Bathhouse attendant</string>
-  <string id="1785">Queue simulator</string>
-  <string id="1786">Refrigerator engineer</string>
+&lt;i&gt;Le ministère de l'éducation&lt;/i&gt;</string>
+  <string id="1703">Force</string>
+  <string id="1704">Force</string>
+  <string id="1705">Endurance</string>
+  <string id="1706">Intelligence</string>
+  <string id="1707">Créativité</string>
+  <string id="1708">Patriotisme</string>
+  <string id="1709">Inspecteur des impôts</string>
+  <string id="1710">Convoyeur de fonds</string>
+  <string id="1711">Comptable</string>
+  <string id="1712">Chef comptable</string>
+  <string id="1713">Chercheur junior</string>
+  <string id="1714">Concierge</string>
+  <string id="1715">Chauffeur de bus</string>
+  <string id="1716">Cuisinier</string>
+  <string id="1717">Jardinier</string>
+  <string id="1718">Diplomate international</string>
+  <string id="1719">Propagandiste</string>
+  <string id="1720">Ingénieur en plomberie</string>
+  <string id="1721">Officier de police</string>
+  <string id="1722">Facteur</string>
+  <string id="1723">Affichiste de propagande</string>
+  <string id="1724">Agent d'entretien</string>
+  <string id="1725">Opérateur de terminal</string>
+  <string id="1726">Médecin généraliste</string>
+  <string id="1727">Testeur d'agents toxiques</string>
+  <string id="1728">Conducteur de tracteur</string>
+  <string id="1729">Obstétricien</string>
+  <string id="1730">Ambulancier</string>
+  <string id="1731">Généticien</string>
+  <string id="1732">Cardiologue</string>
+  <string id="1733">Ophtalmologue</string>
+  <string id="1734">Dentiste</string>
+  <string id="1735">Pharmacien</string>
+  <string id="1736">Pompier</string>
+  <string id="1737">Maître-nageur</string>
+  <string id="1738">Opérateur radio</string>
+  <string id="1739">Pilote</string>
+  <string id="1740">Correcteur</string>
+  <string id="1741">Éditeur</string>
+  <string id="1742">Maquettiste</string>
+  <string id="1743">Animateur radio</string>
+  <string id="1744">Journaliste</string>
+  <string id="1745">Présentateur télévision</string>
+  <string id="1746">Biologiste</string>
+  <string id="1747">Professeur de biologie</string>
+  <string id="1748">Professeur de chimie</string>
+  <string id="1749">Professeur de mathématiques</string>
+  <string id="1750">Géologue</string>
+  <string id="1751">Pédologue</string>
+  <string id="1752">Tuteur</string>
+  <string id="1753">Chorégraphe</string>
+  <string id="1754">Maître-chien</string>
+  <string id="1755">Boulanger</string>
+  <string id="1756">Boucher</string>
+  <string id="1757">Opérateur de four</string>
+  <string id="1758">Confiseur</string>
+  <string id="1759">Chef cuisiner</string>
+  <string id="1760">Alpiniste industriel</string>
+  <string id="1761">Vétérinaire</string>
+  <string id="1762">Agronome</string>
+  <string id="1763">Fermier</string>
+  <string id="1764">Attrapeur de pigeons</string>
+  <string id="1765">Balayeur de rue</string>
+  <string id="1766">Coiffeur</string>
+  <string id="1767">Serveur</string>
+  <string id="1768">Réalisateur de film</string>
+  <string id="1769">Scénariste</string>
+  <string id="1770">Mécanicien</string>
+  <string id="1771">Constructeur</string>
+  <string id="1772">Horloger</string>
+  <string id="1773">Contrôleur aérien</string>
+  <string id="1774">Pilote de marine</string>
+  <string id="1775">Notaire</string>
+  <string id="1776">Avocat</string>
+  <string id="1777">Huissier</string>
+  <string id="1778">Agent de recouvrement</string>
+  <string id="1779">Chargeur</string>
+  <string id="1780">Préposé aux bains</string>
+  <string id="1781">Simulateur de file d'attente</string>
+  <string id="1782">Ingénieur frigorifique</string>
+  <string id="1783">Agent de recouvrement</string>
+  <string id="1784">Chargeur</string>
+  <string id="1785">Préposé aux bains</string>
+  <string id="1786">Simulateur de file d'attente</string>
+  <string id="1787">Ingénieur frigorifique</string>
   <string id="85">h</string>
   <string id="86">m</string>
-  <string id="179">Mo</string>
-  <string id="180">Tu</string>
-  <string id="181">We</string>
-  <string id="182">Th</string>
-  <string id="183">Fr</string>
+  <string id="179">Lu</string>
+  <string id="180">Ma</string>
+  <string id="181">Me</string>
+  <string id="182">Je</string>
+  <string id="183">Ve</string>
   <string id="184">Sa</string>
-  <string id="185">Su</string>
-  <string id="186">January</string>
-  <string id="187">February</string>
-  <string id="188">March</string>
-  <string id="189">April</string>
-  <string id="190">May</string>
-  <string id="191">June</string>
-  <string id="192">July</string>
-  <string id="193">August</string>
-  <string id="194">September</string>
-  <string id="195">October</string>
-  <string id="196">November</string>
-  <string id="197">December</string>
-  <string id="2054">Current day:</string>
+  <string id="185">Di</string>
+  <string id="186">Janvier</string>
+  <string id="187">Février</string>
+  <string id="188">Mars</string>
+  <string id="189">Avril</string>
+  <string id="190">Mai</string>
+  <string id="191">Juin</string>
+  <string id="192">Juillet</string>
+  <string id="193">Août</string>
+  <string id="194">Septembre</string>
+  <string id="195">Octobre</string>
+  <string id="196">Novembre</string>
+  <string id="197">Décembre</string>
+  <string id="2054">Aujourd'hui:</string>
   <string id="170">Gherkin Mail</string>
-  <string id="171">Letters</string>
-  <string id="172">From:</string>
-  <string id="173">To:</string>
+  <string id="171">Courrier</string>
+  <string id="172">De:</string>
+  <string id="173">À:</string>
   <string id="174">Date:</string>
-  <string id="175">Subject:</string>
-  <string id="176">Send To All</string>
-  <string id="177">Draft</string>
+  <string id="175">Sujet:</string>
+  <string id="176">Envoyer à tous</string>
+  <string id="177">Brouillon</string>
   <string id="178">-&gt;$7</string>
   <string id="198">Menu</string>
-  <string id="199">Tasks</string>
+  <string id="199">Tâches</string>
   <string id="200">-&gt;$1455</string>
-  <string id="1501">Effects</string>
-  <string id="203">New Bill Arrived</string>
-  <string id="204">New Item Received</string>
-  <string id="205">Saving</string>
-  <string id="206">Loading</string>
-  <string id="207">I don't have enough time.</string>
-  <string id="208">New Conversation Topic Added</string>
-  <string id="706">There’s no time to do that today.</string>
-  <string id="707">There's no time for that.</string>
-  <string id="708">Not enough time.</string>
-  <string id="709">Insufficient funds.</string>
-  <string id="710">Meet the work quota to earn money.</string>
-  <string id="711">No money.</string>
-  <string id="712">Not enough Authority</string>
-  <string id="713">You have no influence without Authority.</string>
-  <string id="714">Work to earn Authority.</string>
-  <string id="79">Can’t save</string>
-  <string id="209">Skill Added: </string>
-  <string id="121">Skill lost:</string>
-  <string id="965">New task</string>
-  <string id="760">Task completed</string>
-  <string id="761">Task updated</string>
-  <string id="1062">Task failed</string>
-  <string id="1063">Ministry Map received</string>
-  <string id="1664">Camera required</string>
-  <string id="1665">Patriotism emitters required</string>
-  <string id="1666">Productivity amplifiers required</string>
-  <string id="1498">New information discovered about Caleb Redgrave</string>
-  <string id="1121">You made friends with a colleague!</string>
-  <string id="1561">You need a remote</string>
-  <string id="2075">Received Heimdall codes</string>
+  <string id="1501">Effets</string>
+  <string id="203">Nouvelle facture</string>
+  <string id="204">Nouvel article reçu</string>
+  <string id="205">Sauvegarde en cours</string>
+  <string id="206">Chargement en cours</string>
+  <string id="207">Je n'ai pas assez de temps.</string>
+  <string id="208">Nouveau sujet de conversation ajouté</string>
+  <string id="706">Il n'y a pas de temps pour ça aujourd'hui.</string>
+  <string id="707">Il n'y a pas de temps pour ça.</string>
+  <string id="708">Pas assez de temps.</string>
+  <string id="709">Fonds insuffisants.</string>
+  <string id="710">Remplissez le quota de travail pour gagner de l'argent.</string>
+  <string id="711">Pas d'argent.</string>
+  <string id="712">Pas assez d'Autorité</string>
+  <string id="713">Vous n'avez aucune influence sans Autorité.</string>
+  <string id="714">Travaillez pour gagner de l'Autorité.</string>
+  <string id="79">Impossible de sauvegarder</string>
+  <string id="209">Compétence ajoutée : </string>
+  <string id="121">Compétence perdue :</string>
+  <string id="965">Nouvelle tâche</string>
+  <string id="760">Tâche complétée</string>
+  <string id="761">Tâche mise à jour</string>
+  <string id="1062">Tâche échouée</string>
+  <string id="1063">Carte du Ministère reçue</string>
+  <string id="1664">Caméra requise</string>
+  <string id="1665">Émetteurs de patriotisme requis</string>
+  <string id="1666">Amplificateurs de productivité requis</string>
+  <string id="1498">Nouvelles informations découvertes sur Caleb Redgrave</string>
+  <string id="1121">Vous vous êtes lié d'amitié avec un collègue !</string>
+  <string id="1561">Vous avez besoin d'une télécommande</string>
+  <string id="2075">Codes Heimdall reçus</string>
   <string id="201">Documents</string>
-  <string id="202">User</string>
-  <string id="922">Hidden folder</string>
+  <string id="202">Utilisateur</string>
+  <string id="922">Dossier caché</string>
   <string id="923">-&gt;$7</string>
-  <string id="1058">My photos</string>
-  <string id="1240">Patriot Terminal</string>
-  <string id="1241">Motherland Terminal</string>
-  <string id="1242">Hogweed Terminal</string>
-  <string id="1295">Rocket Terminal</string>
-  <string id="1296">Exodus Terminal</string>
-  <string id="955">Employees</string>
-  <string id="1210">Grave of Emilia Klarich, my only daughter</string>
-  <string id="929">Financial report, May 1985:
+  <string id="1058">Mes photos</string>
+  <string id="1240">Terminal Patriote</string>
+  <string id="1241">Terminal Mère-Patrie</string>
+  <string id="1242">Terminal Berce-du-Caucase</string>
+  <string id="1295">Terminal Fusée</string>
+  <string id="1296">Terminal Exode</string>
+  <string id="955">Employés</string>
+  <string id="1210">Tombe d'Emilia Klarich, ma seule fille</string>
+  <string id="929">Rapport financier, mai 1985 :
 
-Received 500,000 in bribes, of which 200,000 went to the general fund.
+A reçu 500 000 en pots-de-vin, dont 200 000 sont allés au fonds général.
 
-I recommend holding motivational executions to encourage employees to take more bribes.</string>
-  <string id="930">List of promoted employees:
+Je recommande d'organiser des exécutions motivantes pour encourager les employés à accepter plus de pots-de-vin.
 
-1. George Hemnitz - transferred to the 7th floor (hanged at the ceremony) Need to investigate this!
+1. George Hemnitz - transféré au 7ème étage (pendu à la cérémonie) Faut enquêter là-dessus !
 
-2. Mary Sue - transferred to the 16th floor (execution by firing squad)
+2. Mary Sue - transférée au 16ème étage (exécution par peloton d'exécution)
 
-3. Greg Collins - transferred to the 9th floor (workplace accident)</string>
-  <string id="931">List of punished employees
+3. Greg Collins - transféré au 9ème étage (accident du travail)
 
-1.Michael Brody - Hanged for failing to meet the bribes quota
-
-2. Eustace Jbanek - Shot for systematic errors made in sorting applications
-
-3. Phil Dukovich - Sent to the kennels for overly frequent approval of citizens' requests
-
-4. Paul Pshekovich - Transferred as a gift to the “Butcher”</string>
-  <string id="932">Wrong password!</string>
-  <string id="933">Hidden section</string>
-  <string id="934">Enter password:</string>
-  <string id="1472">Enter institution code:</string>
-  <string id="1473">Institution code:</string>
-  <string id="1474"> Unknown institution code!</string>
-  <string id="1475">Send</string>
-  <string id="1476">Supply for the next month:</string>
-  <string id="1477">Household goods</string>
-  <string id="1478">Food</string>
-  <string id="1479">Patriotic education</string>
-  <string id="1480">Heating</string>
-  <string id="1481">Executive bonuses</string>
-  <string id="1482">Soap</string>
-  <string id="1483">Toothpowder</string>
-  <string id="1484">Bleach</string>
-  <string id="1485">Canned food</string>
+4. Paul Pshekovich - Transféré en cadeau au "Boucher"</string>
+  <string id="932">Mot de passe incorrect !</string>
+  <string id="933">Section cachée</string>
+  <string id="934">Entrez le mot de passe :</string>
+  <string id="1472">Entrez le code de l'institution :</string>
+  <string id="1473">Code de l'institution :</string>
+  <string id="1474">Code d'institution inconnu !</string>
+  <string id="1475">Envoyer</string>
+  <string id="1476">Approvisionnement pour le mois prochain :</string>
+  <string id="1477">Articles ménagers</string>
+  <string id="1478">Nourriture</string>
+  <string id="1479">Éducation patriotique</string>
+  <string id="1480">Chauffage</string>
+  <string id="1481">Bonus pour les cadres</string>
+  <string id="1482">Savon</string>
+  <string id="1483">Poudre dentifrice</string>
+  <string id="1484">Eau de Javel</string>
+  <string id="1485">Conserves</string>
   <string id="1486">Rutabaga</string>
   <string id="1487">Biscuits</string>
-  <string id="1488">Slogan placards</string>
-  <string id="1489">Rally</string>
-  <string id="1490">Musical performance</string>
-  <string id="1491">Firewood</string>
-  <string id="1492">Banned books</string>
-  <string id="1493">Permission to collect dead wood</string>
-  <string id="1494">Large</string>
-  <string id="1495">Very large</string>
-  <string id="1496">Enormous</string>
-  <string id="1497">Balance:</string>
-  <string id="935">Top 100 patriotic songs</string>
-  <string id="936">1. The Chorus of the Labor Reserve College: “Leader, We Are With You”
-2. The Leader's Best Friends club: “Great Work, Leader!”
-3. VIA Miners: “My Leader”
-4. MilitDept: “Our Department Votes For the Leader”
-5. Leader's Glory: “Hero of the State”
-6. The Weaving Factory No. 4 Collective: “A Bright Future in a Class B Tenement Building”</string>
-  <string id="937">Submission deadlines for reports</string>
-  <string id="938">No later than the 5th of each month:
-- Progress report for the month
-- Information on form 14D
-- Report on patriotic work (form 1PR) - for Rakovich
-No later than the 5th, once a quarter:
-- 2NDSO (get the form from the courier)
-- Quarterly progress report on form KOR4 - for Rakovich and Ferguson</string>
-  <string id="939">Me and [DATA DELETED]</string>
-  <string id="940">My babes.</string>
-  <string id="941">The cover of Fashion magazine, April 1985.</string>
-  <string id="942">Me on a bike</string>
-  <string id="943">Me in the army</string>
-  <string id="944">On vacation</string>
-  <string id="945">Colleagues:</string>
+  <string id="1488">Affiches avec slogans</string>
+  <string id="1489">Rassemblement</string>
+  <string id="1490">Spectacle musical</string>
+  <string id="1491">Bois de chauffage</string>
+  <string id="1492">Livres interdits</string>
+  <string id="1493">Permission de ramasser du bois mort</string>
+  <string id="1494">Grand</string>
+  <string id="1495">Très grand</string>
+  <string id="1496">Énorme</string>
+  <string id="1497">Solde :</string>
+  <string id="935">Top 100 des chansons patriotiques</string>
+  <string id="936">1. Le Chœur du Collège de la Réserve du Travail : « Cher Leader, nous sommes avec vous »
+2. Club des Meilleurs Amis du Leader : « Excellent Travail, Leader ! »
+3. Mineurs de la VIA : « Mon Leader »
+4. MilitDept : « Notre Département Vote Pour le Leader »
+5. Gloire du Leader : « Héros de l'État »
+6. Collectif de l'Usine Textile n° 4 : « Un Avenir Radieux dans un Immeuble de Classe B »
+  <string id="938">Pas plus tard que le 5 de chaque mois :
+- Rapport de progrès pour le mois
+- Informations sur le formulaire 14D
+- Rapport sur le travail patriotique (formulaire 1PR) - pour Rakovich
+Pas plus tard que le 5, une fois par trimestre :
+- 2NDSO (obtenir le formulaire du coursier)
+- Rapport de progrès trimestriel sur le formulaire KOR4 - pour Rakovich et Ferguson</string>
+  <string id="939">Moi et [DONNÉES SUPPRIMÉES]</string>
+  <string id="940">Mes bébés.</string>
+  <string id="941">La couverture du magazine Fashion, avril 1985.</string>
+  <string id="942">Moi à vélo</string>
+  <string id="943">Moi dans l'armée</string>
+  <string id="944">En vacances</string>
+  <string id="945">Collègues:</string>
   <string id="949">Legrand</string>
   <string id="950">Date: 15.03.85
-Who: Marco Legrand
-Subject: Took all the screws out of my work chair so that it fell apart when I sat on it.
+Qui: Marco Legrand
+Sujet: J'ai retiré toutes les vis de ma chaise de travail pour qu'elle s'effondre quand je m'y suis assis.
 
 Date: 15.03.85
-Who: Marco Legrand
-What: Submitted my work reports before I did, and changed the name. (He must have come to work early to disassemble my chair and then seen the reports on my desk).
+Qui: Marco Legrand
+Quoi: A soumis mes rapports de travail avant moi et a changé le nom. (Il doit être venu travailler tôt pour démonter ma chaise puis a vu les rapports sur mon bureau).
 
 Date: 16.03.85
-Who: Marco Legrand
-What: Rejected all applications from visitors. Everyone lost out on their bonuses as a result.</string>
+Qui: Marco Legrand
+Quoi: A rejeté toutes les demandes des visiteurs. Tout le monde a perdu ses bonus en conséquence.</string>
   <string id="951">Me as a child!</string>
   <string id="952">Me at a demonstration</string>
   <string id="953">Me on the train!</string>
