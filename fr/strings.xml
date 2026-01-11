@@ -308,7 +308,6 @@
   <string id="1596">Vérifier</string>
   <string id="1597">Effacer</string>
   <string id="1598">Utilisez les instructions de travail pour tamponner correctement les formulaires d'appel des visiteurs.
-<!--Reprise-->
 La procédure de traitement des formulaires se compose de trois étapes.
 
 
@@ -757,51 +756,52 @@ Quoi: A soumis mes rapports de travail avant moi et a changé le nom. (Il doit �
 Date: 16.03.85
 Qui: Marco Legrand
 Quoi: A rejeté toutes les demandes des visiteurs. Tout le monde a perdu ses bonus en conséquence.</string>
-  <string id="951">Me as a child!</string>
-  <string id="952">Me at a demonstration</string>
-  <string id="953">Me on the train!</string>
-  <string id="954">Cameras:</string>
-  <string id="1343">Hint: your dog's name</string>
-  <string id="1344">Door open</string>
-  <string id="2077">Select the required protocol.</string>
+  <string id="951">Moi enfant!</string>
+  <string id="952">Moi à une manifestation</string>
+  <string id="953">Moi dans le train!</string>
+  <string id="954">Caméras:</string>
+  <string id="1343">Indice: le nom de votre chien</string>
+  <string id="1344">Porte ouverte</string>
+  <string id="2077">Sélectionnez le protocole requis.</string>
   <string id="2078">73-24-5 A</string>
   <string id="2079">65-71-4 B</string>
   <string id="2080">73-40-5 C</string>
   <string id="2081">71-30-7 D</string>
-  <string id="41">Home</string>
-  <string id="42">Square</string>
-  <string id="43">Checkpoint</string>
-  <string id="44">Bridge (Floor 1)</string>
-  <string id="45">Waiting room (Floor 1)</string>
-  <string id="46">General hall (Floor 1)</string>
-  <string id="47">Boss’s office (Floor 1)</string>
-  <string id="48">Shredder hall (Floor 12)</string>
-  <string id="49">Boss’s office (Floor 12)</string>
-  <string id="50">Secret room (Floor 12)</string>
-  <string id="52">Conveyor room (Floor 25)</string>
-  <string id="92">Boss's office (Floor 25)</string>
-  <string id="120">Laboratory (Floor 25)</string>
-  <string id="91">Ministers’ room (Floor 37)</string>
-  <string id="112">Floor 1</string>
-  <string id="115">Floor 12</string>
-  <string id="116">Floor 25</string>
-  <string id="117">Floor 37</string>
-  <string id="118">Autosave</string>
-  <string id="119">Quick save</string>
-  <string id="87">Manual save</string>
-  <string id="88">New save</string>
-  <string id="5634">Sorry?</string>
-  <string id="5688">Please calm down!</string>
-  <string id="5706">What?</string>
-  <string id="5716">I have a complete register of the newborns in our district. Who should I hand it over to?</string>
-  <string id="5724">We have prepared a program for City Day. Who shall I pass it on to?</string>
-  <string id="5733">Abigail and Morgan Kendell, my neighbors in the communal apartment, regularly steal food from the refrigerator.</string>
-  <string id="5735">Last night they ate all my soup and didn't even wash the saucepan! I hope you can do something to sort this out.</string>
-  <string id="5739">Olivia Rice, whose husband Bruno is head of the passport desk, uses a bust of our Leader to weigh down her sauerkraut!</string>
-  <string id="5752">I'm here to let you know that Adam Pluke and his family are illegally collecting his deceased grandmother's food stamps.</string>
-  <string id="5762">My co-worker, Jacqueline Tall, always closes the window, and I can't work when it's so stuffy! I've fainted several times!</string>
-  <string id="5764">Punish her, or at least ban her from closing the window!</string>
-  <string id="5787">So what's the problem?</string>
+  <string id="41">Accueil</string>
+  <string id="42">Place</string>
+  <string id="43">Poste de contrôle</string>
+  <string id="44">Pont (Étage 1)</string>
+  <string id="45">Salle d'attente (Étage 1)</string>
+  <string id="46">Hall général (Étage 1)</string>
+  <string id="47">Bureau du chef (Étage 1)</string>
+  <string id="48">Salle de destruction (Étage 12)</string>
+  <string id="49">Bureau du chef (Étage 12)</string>
+  <string id="50">Salle secrète (Étage 12)</string>
+  <string id="52">Salle de convoyage (Étage 25)</string>
+  <string id="92">Bureau du chef (Étage 25)</string>
+  <string id="120">Laboratoire (Étage 25)</string>
+  <string id="91">Salle des ministres (Étage 37)</string>
+  <string id="112">Étage 1</string>
+  <string id="115">Étage 12</string>
+  <string id="116">Étage 25</string>
+  <string id="117">Étage 37</string>
+  <string id="118">Sauvegarde automatique</string>
+  <string id="119">Sauvegarde rapide</string>
+  <string id="87">Sauvegarde manuelle</string>
+  <string id="88">Nouvelle sauvegarde</string>
+  <string id="5634">Pardon ?</string>
+  <string id="5688">Calmez-vous, s'il vous plaît !</string>
+  <string id="5706">Quoi ?</string>
+  <string id="5716">J'ai un registre complet des nouveau-nés de notre district. À qui dois-je le remettre ?</string>
+  <string id="5724">Nous avons préparé un programme pour la Fête de la Ville. À qui dois-je le transmettre ?</string>
+  <string id="5733">Abigail et Morgan Kendell, mes voisins dans l'appartement communal, volent régulièrement de la nourriture dans le réfrigérateur.</string>
+  <string id="5735">La nuit dernière, ils ont mangé toute ma soupe et n'ont même pas lavé la casserole ! J'espère que vous pourrez faire quelque chose pour arranger cela.</string>
+  <string id="5739">Olivia Rice, dont le mari Bruno est responsable du bureau des passeports, utilise un buste de notre Chef pour maintenir sa choucroute !</string>
+  <string id="5752">Je suis ici pour vous informer qu'Adam Pluke et sa famille collectent illégalement les bons alimentaires de sa grand-mère décédée.</string>
+  <string id="5762">Ma collègue, Jacqueline Tall, ferme toujours la fenêtre, et je ne peux pas travailler quand c'est aussi étouffant ! Je me suis évanouie plusieurs fois !</string>
+  <string id="5764">Punissez-la, ou au moins interdisez-lui de fermer la fenêtre !</string>
+  <string id="5787">Alors, quel est le problème ?</string>
+  <!--reprise-->
   <string id="5797">I need a note certifying that I have no convictions. Who should I talk to?</string>
   <string id="6088">What happened?</string>
   <string id="6106">Go on.</string>
