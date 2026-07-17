@@ -1,6 +1,8 @@
 ﻿{
-	"Guid": "9baa6e45-fc69-490a-a4fc-84ef1321cce7",
-	"SystemLanguage": "French",
-	"Name": "\u0046\u0072\u0061\u006E\u00E7\u0061\u0069\u0073",
-	"CultureName": "fr-FR"
+    "Guid": "3b65d3b1-ecb4-4b9e-91e9-ef2de01097d9",
+    "SystemLanguage": "French",
+    "Name": "Français",
+    "CultureName": "fr-FR",
+    "Sre": "fr",
+    "BuiltIn": false
 }
