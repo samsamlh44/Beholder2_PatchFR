@@ -1,4 +1,5 @@
 # 🇫🇷 Patch traduction Française – *Beholder 2*
+### Patch communautaire 🇫🇷 – version moderne, propre et non‑intrusive
 
 ## 📌 Présentation
 Ce projet propose une **traduction française complète** de *Beholder 2*, réalisée à partir des fichiers originaux du jeu et retravaillée pour offrir une expérience fluide, cohérente et fidèle à l’ambiance dystopique de la série.
