@@ -42,21 +42,23 @@ Contrairement aux anciennes traductions distribuées sous forme d’exécutables
 
 Aucune modification du jeu, aucun exécutable, aucun risque.
 
-### 🪟 Script d’installation Windows (optionnel)
+## 🪟 Scripts d’installation Windows (Steam / GOG)
 
-Pour simplifier l’installation sur Windows, un script PowerShell est fourni.  
-Il copie automatiquement le dossier `/fr/` au bon endroit dans l’installation Steam ou GOG de *Beholder 2*.
+Pour simplifier l’installation sur Windows, deux scripts PowerShell sont fournis :
 
-Ce script est **entièrement facultatif**, transparent et modifiable.  
-Il ne contient aucun exécutable et ne modifie rien en dehors du dossier de langue.
+- `install_steam.ps1` → pour la version **Steam**
+- `install_gog.ps1` → pour la version **GOG Galaxy**
+
+Ces scripts sont **entièrement facultatifs**, transparents et modifiables.  
+Ils ne contiennent aucun exécutable et ne modifient rien en dehors du dossier de langue.
 
 ### Utilisation
 1. Télécharger le dépôt.
-2. Faire un clic droit sur `tools/install.ps1` → *Exécuter avec PowerShell*.
+2. Faire un clic droit sur le script correspondant → *Exécuter avec PowerShell*.
 3. Suivre les instructions affichées.
 
-Le script détecte automatiquement l’emplacement du jeu et installe la traduction dans `StreamingAssets/Localization/`.
-
+Les fichiers seront automatiquement copiés dans :  
+`Beholder 2_Data/StreamingAssets/Localization/`
 
 ---
 
