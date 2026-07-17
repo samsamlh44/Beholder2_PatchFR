@@ -1,26 +1,15 @@
-Write-Host "📦 Installation de la traduction française pour Beholder 2" -ForegroundColor Cyan
+Write-Host "📦 Installation de la traduction française pour Beholder 2 (Steam)" -ForegroundColor Cyan
 
-# Chemins possibles Steam et GOG
+# Chemin Steam par défaut
 $steamPath = "$Env:ProgramFiles(x86)\Steam\steamapps\common\Beholder 2"
-$gogPath   = "$Env:Beholder 2"
+$langPath = Join-Path $steamPath "Beholder 2_Data\StreamingAssets\Localization"
 
-# Détection de la version installée
-if (Test-Path $steamPath) {
-    $gamePath = $steamPath
-    Write-Host "🔍 Version détectée : Steam" -ForegroundColor Blue
-}
-elseif (Test-Path $gogPath) {
-    $gamePath = $gogPath
-    Write-Host "🔍 Version détectée : GOG Galaxy" -ForegroundColor Purple
-}
-else {
-    Write-Host "❌ Impossible de trouver Beholder 2 sur Steam ou GOG." -ForegroundColor Red
-    Write-Host "Veuillez vérifier l'installation du jeu." -ForegroundColor Yellow
+# Vérification du dossier du jeu
+if (!(Test-Path $steamPath)) {
+    Write-Host "❌ Impossible de trouver Beholder 2 dans l'installation Steam." -ForegroundColor Red
+    Write-Host "Veuillez vérifier que le jeu est installé." -ForegroundColor Yellow
     exit
 }
-
-# Dossier de langues
-$langPath = Join-Path $gamePath "Beholder 2_Data\StreamingAssets\Localization"
 
 # Création du dossier Languages si nécessaire
 if (!(Test-Path $langPath)) {
