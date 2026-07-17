@@ -35,9 +35,9 @@ Contrairement aux anciennes traductions distribuées sous forme d’exécutables
 ---
 
 ## 📥 Installation
-1. Télécharger le dossier `/French/` du dépôt.
+1. Télécharger le dossier `/fr/` du dépôt.
 2. Le placer dans :  
-   `Beholder 2_Data/StreamingAssets/Languages/`
+   `Beholder 2_Data/StreamingAssets/Localization/`
 3. Lancer le jeu et sélectionner **Français** dans les options.
 
 Aucune modification du jeu, aucun exécutable, aucun risque.
