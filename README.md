@@ -34,22 +34,24 @@ Contrairement aux anciennes traductions distribuées sous forme d’exécutables
 
 ---
 
-## 📥 Installation
-1. Télécharger le dossier `/fr/` du dépôt.
-2. Le placer dans :  
-   `Beholder 2_Data/StreamingAssets/Localization/`
+## 📥 Installation manuelle
+1. Télécharger l'archive ZIP du dépôt et la décompresser.
+2. Allez dans le dossier `installer`, puis copier le dossier `/fr` dans les fichiers de votre jeu :  
+   `Beholder2_Data/StreamingAssets/Localization/`
 3. Lancer le jeu et sélectionner **Français** dans les options.
 
 Aucune modification du jeu, aucun exécutable, aucun risque.
 
 ## 🪟 Installation simplifiée (Windows)
+1. Télécharger l'archive ZIP du dépôt et la décompresser.  
+2. Allez dans le dossier `installer`. Vous trouverez deux scripts `.bat` :
 
-Deux installateurs `.bat` sont fournis :
+- `install_Steam.bat` → pour la version Steam
+- `install_GOG.bat` → pour la version GOG
 
-- `install_steam.bat` → version Steam
-- `install_gog.bat` → version GOG
+3. Il suffit de **double‑cliquer** sur le fichier correspondant et de suivre les instructions (sélectionner le dossier du jeu).
 
-Il suffit de **double‑cliquer** sur le fichier correspondant.
+4. Lancer le jeu et sélectionner **Français** dans les options.
 
 Ces scripts sont entièrement transparents, lisibles et ne modifient rien en dehors du dossier de langue.
 
@@ -81,11 +83,9 @@ Par souci de transparence :
 
 ---
 
-## 📚 Structure du dépôt
-- `/fr/` – fichiers de traduction  
-- `/tools/` – script d'installation des fichiers 
+## 📚 Structure du dépôt  
+- `/tools/` – dossier contenant les fichiers et les scripts d'installation
 - `README.md` – Présentation du projet et instructions d'installation
-
 
 ---
 
