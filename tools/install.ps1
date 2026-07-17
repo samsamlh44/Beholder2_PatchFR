@@ -7,11 +7,11 @@ $gogPath   = "$Env:ProgramFiles(x86)\GOG Galaxy\Games\Beholder 2"
 # Détection de la version installée
 if (Test-Path $steamPath) {
     $gamePath = $steamPath
-    Write-Host "🔍 Version détectée : Steam" -ForegroundColor Yellow
+    Write-Host "🔍 Version détectée : Steam" -ForegroundColor Blue
 }
 elseif (Test-Path $gogPath) {
     $gamePath = $gogPath
-    Write-Host "🔍 Version détectée : GOG Galaxy" -ForegroundColor Yellow
+    Write-Host "🔍 Version détectée : GOG Galaxy" -ForegroundColor Purple
 }
 else {
     Write-Host "❌ Impossible de trouver Beholder 2 sur Steam ou GOG." -ForegroundColor Red
@@ -20,7 +20,7 @@ else {
 }
 
 # Dossier de langues
-$langPath = Join-Path $gamePath "Beholder 2_Data\StreamingAssets\Languages"
+$langPath = Join-Path $gamePath "Beholder 2_Data\StreamingAssets\Localization"
 
 # Création du dossier Languages si nécessaire
 if (!(Test-Path $langPath)) {
@@ -28,7 +28,7 @@ if (!(Test-Path $langPath)) {
 }
 
 Write-Host "📁 Copie des fichiers..." -ForegroundColor Yellow
-Copy-Item -Path "./French" -Destination $langPath -Recurse -Force
+Copy-Item -Path "./fr" -Destination $langPath -Recurse -Force
 
 Write-Host "✅ Installation terminée !" -ForegroundColor Green
 Write-Host "Vous pouvez maintenant lancer le jeu et sélectionner Français dans les options."
