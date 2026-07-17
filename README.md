@@ -42,23 +42,16 @@ Contrairement aux anciennes traductions distribuées sous forme d’exécutables
 
 Aucune modification du jeu, aucun exécutable, aucun risque.
 
-## 🪟 Scripts d’installation Windows (Steam / GOG)
+## 🪟 Installation simplifiée (Windows)
 
-Pour simplifier l’installation sur Windows, deux scripts PowerShell sont fournis :
+Deux installateurs `.bat` sont fournis :
 
-- `install_steam.ps1` → pour la version **Steam**
-- `install_gog.ps1` → pour la version **GOG Galaxy**
+- `install_steam.bat` → version Steam
+- `install_gog.bat` → version GOG
 
-Ces scripts sont **entièrement facultatifs**, transparents et modifiables.  
-Ils ne contiennent aucun exécutable et ne modifient rien en dehors du dossier de langue.
+Il suffit de **double‑cliquer** sur le fichier correspondant.
 
-### Utilisation
-1. Télécharger le dépôt.
-2. Faire un clic droit sur le script correspondant → *Exécuter avec PowerShell*.
-3. Suivre les instructions affichées.
-
-Les fichiers seront automatiquement copiés dans :  
-`Beholder 2_Data/StreamingAssets/Localization/`
+Ces scripts sont entièrement transparents, lisibles et ne modifient rien en dehors du dossier de langue.
 
 ---
 
