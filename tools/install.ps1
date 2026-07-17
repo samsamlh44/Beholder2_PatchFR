@@ -2,7 +2,7 @@ Write-Host "📦 Installation de la traduction française pour Beholder 2" -Fore
 
 # Chemins possibles Steam et GOG
 $steamPath = "$Env:ProgramFiles(x86)\Steam\steamapps\common\Beholder 2"
-$gogPath   = "$Env:ProgramFiles(x86)\GOG Galaxy\Games\Beholder 2"
+$gogPath   = "$Env:Beholder 2"
 
 # Détection de la version installée
 if (Test-Path $steamPath) {
