@@ -16,8 +16,8 @@
   <string id="4">Options</string>
   <string id="5">QUITTER</string>
   <string id="11">Sauvegarder</string>
-  <string id="12">Charger une partie</string>
-  <string id="16">Quitter le jeu</string>
+  <string id="12">Charger</string>
+  <string id="16">Retourner au bureau</string>
   <string id="17">Sauvegarde rapide</string>
   <string id="22">Jouer</string>
   <string id="23">Suivant</string>
@@ -26,7 +26,7 @@
   <string id="35">Crédits</string>
   <string id="36">Êtes-vous certain de vouloir quitter ?</string>
   <string id="37">Supprimer la sauvegarde?</string>
-  <string id="38">Remplacer la sauvegarde?</string>
+  <string id="38">Écraser la sauvegarde?</string>
   <string id="39">Sélectionner/Utiliser</string>
   <string id="40">Chargement rapide</string>
   <string id="51">Lire</string>
@@ -659,7 +659,7 @@ Vous serez récompensé si trois ampoules ou plus s’allument
   <string id="965">Nouvelle tâche</string>
   <string id="760">Tâche accomplie</string>
   <string id="761">Tâche mise à jour</string>
-  <string id="1062">Tâche échouée</string>
+  <string id="1062">Echec de la tâche</string>
   <string id="1063">Map du Ministère reçu</string>
   <string id="1664">Camera requise</string>
   <string id="1665">Émetteurs patriotiques requis</string>
@@ -10870,8 +10870,7 @@ Article 920, paragraphe 2, introduction par effraction- une amende de</string>
   <string id="558">Eliminer les collègues</string>
   <string id="549">Investigation</string>
   <string id="550">James m'a donné une nouvelle tâche : trouver des ragots sur le patron du 12ème étage.</string>
-  <string id="551">
-  </string>
+  <string id="551"></string>
   <string id="559">Un ordre standard</string>
   <string id="560">Cunningham m'a demandé de vérifier John Smith</string>
   <string id="561">Demander le dossier personnel de John Smith</string>
@@ -11002,16 +11001,11 @@ Article 920, paragraphe 2, introduction par effraction- une amende de</string>
   <string id="1335">Passer le détonateur et le code au coursier.</string>
   <string id="389">
   </string>
-  <string id="504">
-  </string>
-  <string id="505">
-  </string>
-  <string id="506">
-  </string>
-  <string id="507">
-  </string>
-  <string id="508">
-  </string>
+  <string id="504"></string>
+  <string id="505"></string>
+  <string id="506"></string>
+  <string id="507"></string>
+  <string id="508"></string>
   <string id="509">Le Zoo</string>
   <string id="510">Le Comité d'éthique m'a imposé une amende. Je dois en parler avec Hazer.</string>
   <string id="511">Parler à Hazer de l'appel du Comité d'éthique.</string>
@@ -11494,8 +11488,7 @@ Article 920, paragraphe 2, introduction par effraction- une amende de</string>
   <string id="1042">Nouvelle compétence : Piratage des terminaux Patriot.</string>
   <string id="1423">Travail avec les terminaux. Volume 5.</string>
   <string id="1424">Nouvelle compétence : Piratage des terminaux Exodus.</string>
-  <string id="1348">
-  </string>
+  <string id="1348"></string>
   <string id="734">"My Path", un roman du Sage Leader.</string>
   <string id="1461">L'art d'économiser sur tout.</string>
   <string id="1462">Théorie économique et vie.</string>
