@@ -1,7 +1,7 @@
 ![Mod](https://img.shields.io/badge/Beholder%202-Patch%20FR-blue?style=for-the-badge) [![Download](https://img.shields.io/github/v/release/samsamlh44/Beholder2_PatchFR?label=Télécharger&style=for-the-badge)](https://github.com/samsamlh44/Beholder2_PatchFR/releases/latest)
 
 # 🇫🇷 Patch traduction Française – *Beholder 2*
-### Patch communautaire 🇫🇷 – version moderne, propre et non‑intrusive
+### Patch communautaire 🇫🇷 – 2026
 
 
 ## 📌 Présentation
